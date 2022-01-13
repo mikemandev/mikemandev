@@ -11,6 +11,8 @@ About me:
 
 ⏳ Year progress  [■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□]  3.65 %
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maycman&layout=compact&langs_count=10&theme=dark&hide=html,css)
 
 
-Last updated: 2022-01-13 8:33:18 am
+
+Last updated: 2022-01-13 8:59:26 am
