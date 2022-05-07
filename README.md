@@ -9,10 +9,10 @@ About me:
 - 💬 Ask me about comics, cars, tech, and Info Security.
 - ⚡ Fun fact: I'm usually listen Cumbias music genre while I'm driving.
 
-⏳ Year progress  [■■■■■■■■■■□□□□□□□□□□□□□□□□□□□□]  34.46 %
+⏳ Year progress  [■■■■■■■■■■□□□□□□□□□□□□□□□□□□□□]  34.73 %
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maycman&layout=compact&langs_count=10&theme=dark&hide=html,css)
 
 
 
-Last updated: 2022-05-06 2:40:22 am
+Last updated: 2022-05-07 2:28:58 am
