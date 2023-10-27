@@ -39,12 +39,12 @@ func main() {
 
 	README := "### Hi there 👋\n\n" +
 
-		"This is Michael (Mike), I'm currently working as Technical Analyst @ Infosys Mexico.\n\n" +
+		"This is Michael (Mike), I'm currently working as Frontend Developer @ GFT Mexico.\n\n" +
 
 		"About me:\n\n" +
 
 		"- 🔭 I’m currently working on self side projects.\n" +
-		"- 🌱 I’m currently learning JS FrontEnd Dev, IT Security, Go Programming language.\n" +
+		"- 🌱 I’m currently learning Angular, Go Programming language.\n" +
 		"- 💬 Ask me about comics, cars, tech, and Info Security.\n" +
 
 		"- ⚡ Fun fact: I'm usually listen Cumbias music genre while I'm driving.\n\n" +
