@@ -9,10 +9,10 @@ About me:
 - 💬 Ask me about comics, cars, tech, and Info Security.
 - ⚡ Fun fact: I'm usually listen Cumbias music genre while I'm driving.
 
-⏳ Year progress  [■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□]  88.83 %
+⏳ Year progress  [■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□]  89.10 %
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikemandev&layout=compact&langs_count=10&theme=dark&hide=html,css)
 
 
 
-Last updated: 2025-11-21 2:26:43 am
+Last updated: 2025-11-22 2:21:58 am
