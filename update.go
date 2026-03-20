@@ -37,17 +37,17 @@ func main() {
 	}
 	defer file.Close()
 
-	README := "### Hi there 👋\n\n" +
+	README := "### Hello, nice to meet you! 👋\n\n" +
 
-		"This is Michael (Mike), I'm currently working as Frontend Developer @ GFT Mexico.\n\n" +
+		"I'm Mike \n\n" +
 
 		"About me:\n\n" +
 
 		"- 🔭 I’m currently working on self side projects.\n" +
-		"- 🌱 I’m currently learning Angular, Go Programming language.\n" +
-		"- 💬 Ask me about comics, cars, tech, and Info Security.\n" +
+		"- 🌱 I’m currently learning Java, Go programming language, and Frontend development with angular.\n" +
+		"- 💬 Ask me about comics, cars, tech, and software development.\n" +
 
-		"- ⚡ Fun fact: I'm usually listen Cumbias music genre while I'm driving.\n\n" +
+		"- ⚡ Fun fact: I'm usually hear cumbias while I'm driving.\n\n" +
 		"⏳ Year progress  [" + passedProgressBar + leftProgressBar + "]  " + strconv.FormatFloat(progressOfThisYear*100, 'f', 2, 64) + " %\n\n" +
 
 		"![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikemandev&layout=compact&langs_count=10&theme=dark&hide=html,css)\n\n" +
