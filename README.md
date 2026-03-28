@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hello, nice to meet you! 👋
 
-This is Michael (Mike), I'm currently working as Frontend Developer @ GFT Mexico.
+I'm Mike 
 
 About me:
 
 - 🔭 I’m currently working on self side projects.
-- 🌱 I’m currently learning Angular, Go Programming language.
-- 💬 Ask me about comics, cars, tech, and Info Security.
-- ⚡ Fun fact: I'm usually listen Cumbias music genre while I'm driving.
+- 🌱 I’m currently learning Java, Go programming language, and Frontend development with angular.
+- 💬 Ask me about comics, cars, tech, and software development.
+- ⚡ Fun fact: I'm usually hear cumbias while I'm driving.
 
-⏳ Year progress  [■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.54 %
+⏳ Year progress  [■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□]  23.81 %
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikemandev&layout=compact&langs_count=10&theme=dark&hide=html,css)
 
 
 
-Last updated: 2026-03-27 3:46:11 am
+Last updated: 2026-03-28 3:31:46 am
