@@ -9,10 +9,10 @@ About me:
 - 💬 Ask me about comics, cars, tech, and software development.
 - ⚡ Fun fact: I'm usually hear cumbias while I'm driving.
 
-⏳ Year progress  [■■■■■■■■■■■■■■■■□□□□□□□□□□□□□□]  56.06 %
+⏳ Year progress  [■■■■■■■■■■■■■■■■□□□□□□□□□□□□□□]  56.33 %
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikemandev&layout=compact&langs_count=10&theme=dark&hide=html,css)
 
 
 
-Last updated: 2026-07-24 4:9:18 am
+Last updated: 2026-07-25 3:58:31 am
