@@ -50,8 +50,7 @@ func main() {
 		"- ⚡ Fun fact: I'm usually hear cumbias while I'm driving.\n\n" +
 		"⏳ Year progress  [" + passedProgressBar + leftProgressBar + "]  " + strconv.FormatFloat(progressOfThisYear*100, 'f', 2, 64) + " %\n\n" +
 
-		//"![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikemandev&layout=compact&langs_count=10&theme=dark&hide=html,css)\n\n" +
-		"[![Mike's GitHub stats](https://github-stats-extended.vercel.app/api?username=mikemandev)]\n\n" +
+		"![Mike's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=mikemandev&langs_count=4&theme=dark_github)\n\n" +
 
 		"\n\nLast updated: " + currentDate
 
